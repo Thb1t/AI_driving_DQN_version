@@ -23,10 +23,10 @@ Here is an image of what it looks like :
 ![Image_cars](Images/Img_car.png)
 
 # 📦 Dependencies
-  Python 3.x 🐍
-  pytorch for neurons 🧠
-  numpy for tracking and plotting results 📊
-  pygame for visualization 🎮
+  - Python 3.x 🐍
+  - pytorch for neurons 🧠
+  - numpy for tracking and plotting results 📊
+  - pygame for visualization 🎮
 
 # 📝 Notes & Observations
 ⏳ Training is unstable at first — the car often spins out or crashes quickly — but over time, it learns to stabilize, turn properly, and sometimes follow simple roads or avoid walls.
